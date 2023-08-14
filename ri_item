@@ -1,0 +1,5 @@
+    addInvoice( ri_invoice, 2006003, "Lee Ltd.", "2006/12/24" );
+        addInvoiceItem( ri_item, 2006003, 1, 2004, 5, "23.99" );
+        addInvoiceItem( ri_item, 2006003, 2, 2005, 4, "39.99" );
+        addInvoiceItem( ri_item, 2006003, 3, 2001, 800, ".03" );
+        addInvoiceItem( ri_item, 2006003, 4, 2002, 700, ".09" );
